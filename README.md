@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/LuizVaccaro/Projeto01/blob/main/Vamos%20Conhecer%20Sobre%20o%20Hawaii%20(1).png?raw=true" alt="imagem maneira relacionada ao projeto"height=400px >
+  <img src="https://github.com/LuizVaccaro/Projeto02-Analise-Covid-19/blob/main/foto%20capa.webp" alt="imagem maneira relacionada ao projeto"height=300px >
 </p>
 
 ## Projeto 02 Sigmoidal - Análise de dados da Covid-19 no mundo e na França. 
